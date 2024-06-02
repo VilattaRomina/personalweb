@@ -1,0 +1,23 @@
+[{
+    "id": "1",
+    "title": "Fullstack Developer",
+    "location": "Freelance",
+    "time":"October 2023 - Present",
+    "description": "Developed a fullstack application for a client using React, Node.js, and MongoDB. The application is a platform for users to create and share their own recipes. The application also includes a feature for users to search for recipes based on ingredients they have on hand."
+},
+{
+    "id": "2",
+    "title": "Fullstack Developer",
+    "location": "Evoltis",
+    "time":"May 2023 - Present",
+    "description": "Development and maintenance of web applications using Angular and TypeScript. Collaboration with the team to understand and meet project requirements. Implementation of agile methodologies to optimize the development process."
+},
+
+{
+    "id": "3",
+    "title": "Fullstack Developer",
+    "location": "AR|CO LAB",
+    "time":"March 2023 - February 2024",
+    "description": "Co-founder of a software factory, in charge of end-to-end system development (Frontend and Backend). In close collaboration with clients, I offer customized and personalized solutions."
+
+}]

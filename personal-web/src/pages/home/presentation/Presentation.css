@@ -1,0 +1,23 @@
+
+/* Estilos adicionales para hacerlo más visualmente atractivo */
+/* .scroll-item:nth-child(odd) {
+    background-color: #f0f0f0;
+}
+.scroll-item:nth-child(even) {
+    background-color: #ccc;
+} */
+
+img{
+    will-change: filter;
+    transition: filter 300ms;
+  }
+ 
+  img.profile:hover {
+    filter: drop-shadow(0 0 8em theme('colors.primary'));
+  }
+
+  .gradient-bg {
+    background-image: linear-gradient(to right, #a866d6, #86c98e);
+    color: transparent;
+    -webkit-background-clip: text;
+  }

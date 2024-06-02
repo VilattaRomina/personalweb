@@ -1,0 +1,43 @@
+
+.icon{
+  color: theme('colors.light');
+  will-change: filter;
+  transition: filter 300ms;
+  position: relative;
+  cursor: pointer;
+  font-size: 45px;
+
+  @media (min-width: 768px) {
+    font-size: 60px;
+  }
+}
+
+.icon:hover{
+  /* color: theme('colors.secondary'); */
+  transform: scale(1.2);
+}
+
+
+.icon:hover::before {
+  content: attr(title);
+  position: absolute;
+  bottom: -2rem;
+  padding: 0.2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0, 0, 0, 0.8);
+  background-image: linear-gradient(to right, #a866d6, #86c98e);
+  color: transparent;
+  -webkit-background-clip: text;
+  border-radius: 5px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  font-size: 12px;
+}
+
+.icon:hover::before {
+  opacity: 1;
+  
+}

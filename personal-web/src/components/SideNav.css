@@ -1,0 +1,48 @@
+.side-nav {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  width: 30px;
+  left: 95%;
+  top: 80%;
+  transform: translateY(-50%);
+  gap: 20px;
+  align-items: center;
+  @media (max-width: 768px) {
+    display: none; 
+  }
+}
+
+.nav-link {
+  border: 1px solid #86c98e;
+  background: #86c98e;
+  border-radius: 50%;
+  cursor: pointer;
+  width: 6px;
+  height: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    transition: 0.5s;
+
+}
+
+.nav-link.active {
+  background-color: transparent;
+  border-radius: 0%;
+  width: 8px;
+  height: 8px;
+  animation: rotate 0.5s ease-in-out;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+    100% {
+        transform: rotate(360deg);
+    }
+}

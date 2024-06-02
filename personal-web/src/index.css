@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer components {
+  .card {
+    background-color: theme("colors.medium");
+    border-radius: theme("borderRadius.lg");
+    box-shadow: theme("boxShadow.xl");
+    color: theme("colors.light");
+  }
+}
+
+*{
+  margin:0;
+  padding: 0;
+}
+
+/* .root{
+  height: 100%;
+} */
+
+body, html {
+  font-family: 'Poppins', sans-serif;
+  background-color: theme('colors.dark');
+  height: 100vh;
+  overflow: auto;  
+  scroll-snap-type: y mandatory;  /* Evita el desplazamiento horizontal */
+}
+
+.section {
+  text-align: center;
+  /* padding: 200px 300px 0 300px; */
+  scroll-snap-align: start;
+  min-height: 100vh;  
+}
+
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+

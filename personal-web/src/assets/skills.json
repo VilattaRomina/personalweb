@@ -1,0 +1,18 @@
+[
+    { "icon": "IoLogoJavascript", "label": "JavaScript" },
+    { "icon": "FaHtml5", "label": "HTML5" },
+    { "icon": "IoLogoCss3", "label": "CSS3" },
+    { "icon": "FaJava", "label": "Java" },
+    { "icon": "FaReact", "label": "React" },
+    { "icon": "FaGithub", "label": "GitHub" },
+    { "icon": "AiOutlineGitlab", "label": "GitLab" },
+    { "icon": "SiTypescript", "label": "TypeScript" },
+    { "icon": "SiMysql", "label": "MySQL" },
+    { "icon": "SiMongodb", "label": "MongoDB" },
+    { "icon": "SiSelenium", "label": "Selenium" },
+    { "icon": "SiPostman", "label": "Postman" },
+    { "icon": "TbBrandNextjs", "label": "Next.js" },
+    { "icon": "FaAngular", "label": "Angular" },
+    { "icon": "FaNode", "label": "Node.js" }
+  ]
+  

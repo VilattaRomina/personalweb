@@ -1,0 +1,24 @@
+.card {
+  opacity: 0;
+  transform: translateX(-20%);
+  transition: opacity 0.5s ease, transform 1s ease;
+  width: 280px;
+  height: 230px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  @media (min-width: 768px) { 
+    width: 360px;
+  height: 260px;
+  padding: 30px;
+   }
+
+}
+
+.card.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
