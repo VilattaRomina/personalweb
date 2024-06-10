@@ -14,7 +14,7 @@
 
 .icon:hover{
   /* color: theme('colors.secondary'); */
-  transform: scale(1.2);
+  transform: scale(1.5);
 }
 
 
@@ -33,8 +33,8 @@
   white-space: nowrap;
   opacity: 0;
   pointer-events: none;
-  transition: opacity 0.3s ease;
-  font-size: 12px;
+  transition: opacity 0.5s ease;
+  font-size: 13px;
 }
 
 .icon:hover::before {
