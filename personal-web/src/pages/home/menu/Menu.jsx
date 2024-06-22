@@ -12,7 +12,7 @@ const Menu = () => {
           <p className="text-light md:text-2xl text-lg text-start">
             Open source projects, web apps and experiments.
           </p>
-          <Link to="/projects">
+          <Link to="/projectos">
             <Button text="Projects" />
           </Link>
         </div>
@@ -23,7 +23,7 @@ const Menu = () => {
           <p className="text-light md:text-2xl text-lg text-start">
             If you have any questions or want to contact me.
           </p>
-          <Link to="/form">
+          <Link to="/formulario">
             <Button text="Contact me" />
           </Link>
         </div>
