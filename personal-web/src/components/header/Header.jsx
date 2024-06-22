@@ -9,7 +9,7 @@ const Header = () => {
 
 
   return (
-    <header className="fixed w-full py-4 px-6 z-50 flex justify-between">
+    <header className="fixed w-full py-4 md:px-6 px-4 z-50 flex justify-between">
     <div className="text-grey flex md:gap-9 gap-4 justify-center items-center text-xl">
         {/* <a href="">
         <SiGmail />
