@@ -31,7 +31,7 @@ const Form = () => {
       }
     };
   return (
-    <main className="flex flex-col items-center justify-center h-full pt-10 gap-3 ">
+    <main className="flex flex-col items-center justify-center h-full md:pt-10 pt-20 gap-3 ">
       <h1 className="text-light md:text-5xl text-2xl text-center">Send me <span className="text-primary">a message!</span></h1>
       <p className="text-light md:text-xl text-lg text-center">
         Got a question or proposal, or just want to say hello? Go ahead.
