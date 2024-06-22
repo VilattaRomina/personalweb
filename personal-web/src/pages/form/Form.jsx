@@ -62,7 +62,7 @@ const Form = () => {
             name="message"
             cols="30"
             rows="10"
-            className="w-full px-3 py-2 text-light leading-tight focus:outline-none focus:shadow-outline bg-transparent"
+            className="w-full px-3 py-2 text-light leading-tight focus:outline-none focus:shadow-outline bg-transparent max-h-24"
             placeholder="Write your message"
           ></textarea>
         </div>
