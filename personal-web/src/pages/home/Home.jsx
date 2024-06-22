@@ -6,13 +6,13 @@ import SideNav from "../../components/SideNav";
 
 const Home = () => {
   return (
-    <>
+    <main>
       <SideNav />
       <Presentation />
       <Experiences />
       <Skills />
       <Menu />
-    </>
+    </main>
   );
 };
 

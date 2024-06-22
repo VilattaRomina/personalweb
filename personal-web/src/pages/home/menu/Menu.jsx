@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 const Menu = () => {
   return (
     <section className="section flex justify-center items-center " id="menu">
-      <div className="grid md:grid-cols-2 grid-cols-1 justify-center items-center gap-10 md:h-96 max-w-4xl">
-        <div className="flex flex-col md:pr-10 p-10 pt-0 md:border-r-2 md:border-r-light h-full justify-between gap-8">
+      <div className="grid md:grid-cols-2 grid-cols-1 justify-center items-center gap-10 md:h-96 max-w-4xl p-10">
+        <div className="flex flex-col md:pr-10 md:border-r-2 md:border-r-light h-full justify-between gap-8">
           <h1 className="md:text-5xl text-xl text-light text-primary text-start">
             Check out my most recent work!
           </h1>
@@ -16,7 +16,7 @@ const Menu = () => {
             <Button text="Projects" />
           </Link>
         </div>
-        <div className="flex flex-col md:pl-10 p-10 pt-0 h-full justify-between gap-8">
+        <div className="flex flex-col md:pl-10 h-full justify-between gap-8">
           <h1 className="md:text-5xl text-xl text-light text-primary text-start">
             Send me a message!
           </h1>
