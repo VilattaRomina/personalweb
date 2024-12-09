@@ -1,20 +1,27 @@
-[{
+[ {
     "id": "1",
+    "title": "Frontend Developer",
+    "location": "Syloper",
+    "time":"September 2024 - Present",
+    "description": "Development and maintenance of web applications using Angular and React. Implementation of dynamic and optimized interfaces, integrating REST APIs, and ensuring scalable solutions. Collaboration in Scrum teams to guarantee the delivery of high-quality and high-performance products."
+},
+    {
+    "id": "2",
     "title": "Fullstack Developer",
     "location": "Freelance",
     "time":"October 2023 - Present",
     "description": "Developed a fullstack application for a client using React, Node.js, and MongoDB. The application is a platform for users to create and share their own recipes. The application also includes a feature for users to search for recipes based on ingredients they have on hand."
 },
 {
-    "id": "2",
+    "id": "3",
     "title": "Fullstack Developer",
     "location": "Evoltis",
-    "time":"May 2023 - Present",
+    "time":"May 2023 - August 2024",
     "description": "Development and maintenance of web applications using Angular and TypeScript. Collaboration with the team to understand and meet project requirements. Implementation of agile methodologies to optimize the development process."
 },
 
 {
-    "id": "3",
+    "id": "4",
     "title": "Fullstack Developer",
     "location": "AR|CO LAB",
     "time":"March 2023 - February 2024",
