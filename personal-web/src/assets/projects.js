@@ -46,14 +46,14 @@ export const projects =
       },
       {
         "id": 8,
-        "name": "Proyectos en Syloper",
+        "name": "Projects at Syloper",
         "img": null,
-        "description": "Trabajé en el desarrollo de múltiples plataformas web con Angular y React, optimizando la experiencia de usuario y mejorando la arquitectura de sistemas. Entre los proyectos destacados se encuentran:\n\n- **FIAB**: Plataforma de sostenibilidad para la industria alimentaria.\n- **Nasini**: Sistema de gestión de productos y ventas.\n- **AIPSA**: Herramienta de inversiones en el sector agropecuario.\n- **Pampamed & Scanmed**: Plataforma médica para estudios y diagnósticos.\n- **TickTrade**: Plataforma de trading en tiempo real."
+        "description": "I worked on the development of multiple web platforms using Angular and React, optimizing user experience and improving system architecture. Among the notable projects are:\n\n- **FIAB**: Sustainability platform for the food industry.\n- **Nasini**: Product and sales management system.\n- **AIPSA**: Investment tool for the agricultural sector.\n- **Pampamed & Scanmed**: Medical platform for studies and diagnostics.\n- **TickTrade**: Real-time trading platform."
       },
       {
         "id": 9,
-        "name": "Proyectos en Evoltis",
+        "name": "Projects at Evoltis",
         "img": null,
-        "description": "Desarrollo y mantenimiento de aplicaciones empresariales utilizando Angular en el frontend y colaborando con equipos backend para integración de sistemas. Proyectos clave:\n\n- **EPEC**: Sistema de gestión para la Empresa Provincial de Energía de Córdoba.\n- **Crisalis**: Plataforma de comunicación empresarial optimizada para usuarios corporativos."
+        "description": "Development and maintenance of enterprise applications using Angular for the frontend and collaborating with backend teams for system integration. Key projects:\n\n- **EPEC**: Management system for the Provincial Energy Company of Córdoba.\n- **Crisalis**: Business communication platform optimized for corporate users."
       }
 ]
