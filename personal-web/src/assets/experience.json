@@ -1,31 +1,31 @@
-[ {
-    "id": "1",
-    "title": "Frontend Developer",
-    "location": "Syloper",
-    "time":"September 2024 - Present",
-    "description": "Development and maintenance of web applications using Angular and React. Implementation of dynamic and optimized interfaces, integrating REST APIs, and ensuring scalable solutions. Collaboration in Scrum teams to guarantee the delivery of high-quality and high-performance products."
-},
+[
     {
-    "id": "2",
-    "title": "Fullstack Developer",
-    "location": "Freelance",
-    "time":"October 2023 - julio 2024",
-    "description": "Developed a fullstack application for a client using React, Node.js, and MongoDB. The application is a platform for users to create and share their own recipes. The application also includes a feature for users to search for recipes based on ingredients they have on hand."
-},
-
-{
-    "id": "3",
-    "title": "Fullstack Developer",
-    "location": "Evoltis",
-    "time":"May 2023 - August 2024",
-    "description": "Development and maintenance of web applications using Angular and TypeScript. Collaboration with the team to understand and meet project requirements. Implementation of agile methodologies to optimize the development process."
-},
-
-{
-    "id": "4",
-    "title": "Fullstack Developer",
-    "location": "AR|CO LAB",
-    "time":"March 2023 - February 2024",
-    "description": "Co-founder of a software factory, in charge of end-to-end system development (Frontend and Backend). In close collaboration with clients, I offer customized and personalized solutions."
-
-}]
+      "id": "1",
+      "title": "Frontend Developer",
+      "location": "Syloper",
+      "time":"September 2024 - Present",
+      "description": "Worked on various projects including FIAB, Nasini, and AIPSA using Angular and React. Developed and maintained web applications, optimized UI/UX, and collaborated on system architecture."
+    },
+    {
+      "id": "2",
+      "title": "Fullstack Developer",
+      "location": "Freelance",
+      "time":"October 2023 - July 2024",
+      "description": "Developed a fullstack application using React, Node.js, and MongoDB. Created a platform for users to share recipes, integrating a search feature based on available ingredients."
+    },
+    {
+      "id": "3",
+      "title": "Fullstack Developer",
+      "location": "Evoltis",
+      "time":"May 2023 - August 2024",
+      "description": "Maintained and developed Angular applications, including projects for EPEC and Crisalis. Contributed to UI improvements and collaborated with backend teams."
+    },
+    {
+      "id": "4",
+      "title": "Fullstack Developer",
+      "location": "AR|CO LAB",
+      "time":"March 2023 - February 2024",
+      "description": "Co-founder of a software factory, leading the development of custom web applications using modern technologies."
+    }
+  ]
+  
