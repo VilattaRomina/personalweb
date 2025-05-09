@@ -8,7 +8,6 @@
     { "icon": "AiOutlineGitlab", "label": "GitLab" },
     { "icon": "SiTypescript", "label": "TypeScript" },
     { "icon": "SiMysql", "label": "MySQL" },
-    { "icon": "SiMongodb", "label": "MongoDB" },
     { "icon": "SiSelenium", "label": "Selenium" },
     { "icon": "SiPostman", "label": "Postman" },
     { "icon": "TbBrandNextjs", "label": "Next.js" },

@@ -6,13 +6,7 @@
       "time":"September 2024 - Present",
       "description": "Worked on various projects including FIAB, Nasini, and AIPSA using Angular and React. Developed and maintained web applications, optimized UI/UX, and collaborated on system architecture."
     },
-    {
-      "id": "2",
-      "title": "Fullstack Developer",
-      "location": "Freelance",
-      "time":"October 2023 - July 2024",
-      "description": "Developed a fullstack application using React, Node.js, and MongoDB. Created a platform for users to share recipes, integrating a search feature based on available ingredients."
-    },
+
     {
       "id": "3",
       "title": "Frontend Developer",
